@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1100" role="img" aria-labelledby="title desc">
+  <title id="title">Naeve Stay photograph placeholder</title>
+  <desc id="desc">A warm abstract placeholder with an arch, soft sun and foliage-like shapes.</desc>
+  <rect width="1600" height="1100" fill="#d8cbb8"/>
+  <rect y="770" width="1600" height="330" fill="#b8aa8d" opacity=".65"/>
+  <circle cx="1190" cy="255" r="150" fill="#c67b5a" opacity=".68"/>
+  <path d="M560 770V455c0-176 126-318 280-318s280 142 280 318v315z" fill="#7c856c" opacity=".9"/>
+  <path d="M625 770V468c0-122 96-222 215-222s215 100 215 222v302z" fill="#efe6d7" opacity=".9"/>
+  <path d="M0 835c170-124 284-115 442-18 134 82 229 70 355-15 131-88 280-78 410 12 114 78 244 78 393-30v316H0z" fill="#8b7862" opacity=".52"/>
+  <path d="M1320 825c-58-112-52-240 31-329 23 108 47 169 115 250 49-107 98-152 166-183-19 143-5 237 60 338v199h-372z" fill="#6f8069" opacity=".72"/>
+</svg>

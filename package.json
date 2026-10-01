@@ -1,0 +1,9 @@
+{
+  "name": "naevestay",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Naeve Stay photo-led homestay portfolio",
+  "scripts": {
+    "start": "python3 -m http.server 3000 --bind 0.0.0.0"
+  }
+}
